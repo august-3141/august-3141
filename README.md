@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hiya! I'm August 🏳️‍🌈
 
-<!--
-**august-3141/august-3141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
 
-Here are some ideas to get you started:
+(she / her)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hobbies:
+
+- Programming 💻
+- Art ✏️
+- Reading 📚
+
+---
+
+### My VSCode Interface (I'm very proud of it)
+
+![image](https://user-images.githubusercontent.com/110700696/206503122-995b4016-dda3-4054-9a5a-bfe1321d71c1.png)
+
+---
+
+### Experience
+
+- 1 year Python experience
+
+- ~1.5-2 years HTML and CSS experience
+
+- <1 year Java and JavaScript experience
+
