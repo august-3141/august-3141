@@ -1,4 +1,4 @@
-## Hiya! I'm August 🏳️‍🌈
+## Hiya! I'm Augs 🏳️‍🌈
 
 ### About Me:
 
