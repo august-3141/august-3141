@@ -7,8 +7,8 @@
 Hobbies:
 
 - Programming 💻
-- Art ✏️
-- Reading 📚
+- 3-d Modeling ✏️
+- Reading/Writing 📚
 
 ---
 
